@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Você é incrivel!"
 ---
-Oua, novo texto adicionado!
-Use the left arrow to go back!
+Não vejo a hora de estar ao seu lado ....
